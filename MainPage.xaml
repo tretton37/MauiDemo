@@ -6,7 +6,7 @@
     <ScrollView>
         <Grid RowSpacing="25" RowDefinitions="Auto,Auto,Auto,Auto,*"
               Padding="{OnPlatform iOS='30,60,30,30', Default='30'}">
-            <!-- This label will print "Hello, Denis!!" -->
+            <!-- This label will print "Hello, Denis!!!" -->
             <Label 
                 Text="Hello, World!"
                 Grid.Row="0"
